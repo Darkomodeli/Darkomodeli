@@ -104,7 +104,7 @@ To je spoj:
 - modelovanja podataka
 
 Drugim rečima:  
-**„ključam kompleksnost dok ne postane razumljiva“.**
+** ⚗️„kuvam kompleksnost dok ne postane razumljiva“.**
 
 ---
 
@@ -179,6 +179,6 @@ Ovaj projekat je temelj mog DWH portfolija.
 
 ---
 
-## ❤️ Moja misija u jednoj rečenici
+## 🧪📽️ Moja misija u jednoj rečenici
 
 **„Vizuelizujem znanje. Struktuiram procese. Pravim da sistemi postanu razumljivi.“**
