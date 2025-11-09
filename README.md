@@ -27,6 +27,8 @@ Metagrafija je interdisciplinarni metod nastao na preseku:
 - digitalnih tehnologija i analitike
 - UX razmišljanja i konceptualnog dizajna
 
+  ![Metagrafija Lab](https://raw.githubusercontent.com/Darkomodeli/Darkomodeli/main/slika%20Metagrafija%20Laba-Portfolio%20Analitike%20Podataka.png)
+
 ### 🔹 Etimološki ključ
 
 **Meta** – iza, iznad, promena oblika  
