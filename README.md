@@ -59,6 +59,9 @@ Funkcioniše u 3 konteksta (3K):
 
 ![Mapa Strateške Osmice](https://raw.githubusercontent.com/Darkomodeli/Darkomodeli/main/Strateska%20osmica%20i%20IDEO%20Portfolio%20Analitike%20Podataka.png)
 
+<img src="https://raw.githubusercontent.com/Darkomodeli/Darkomodeli/main/slika%20Metagrafija%20Laba-Portfolio%20Analitike%20Podataka.png" width="650">
+
+
 
 Moja autorska vizuelna mapa, zasnovana na IDEO d.school dizajnerskom razmišljanju i HDSR logici.
 
