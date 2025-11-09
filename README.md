@@ -55,6 +55,8 @@ Funkcioniše u 3 konteksta (3K):
 
 ## 🌀 Strateška Osmica (HDSR Loop)
 
+https://github.com/Darkomodeli/Darkomodeli/commit/eaddf0c31fe04b2dd23ce0e95ddb5ca86ded9ad5
+
 Moja autorska vizuelna mapa, zasnovana na IDEO d.school dizajnerskom razmišljanju i HDSR logici.
 
 **Sekvenca:**
