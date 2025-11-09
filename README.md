@@ -1,4 +1,4 @@
-# ✅ FINAL GITHUB README 1.0 — DARKOMODELI
+# ✅ README 1.0 — DARKOMODELI
 (PREMIUM NARRATIVE + DWH + METAGRAFIJA edition)
 
 ## 👋 Zdravo, ja sam Darko Domonji
