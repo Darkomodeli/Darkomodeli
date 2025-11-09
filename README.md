@@ -1,6 +1,4 @@
-# ✅ README 1.0 — DARKOMODELI
-(PREMIUM NARRATIVE + DWH + METAGRAFIJA edition)
-
+# ✅ 1.0 — DARKOMODELI
 ## 👋 Zdravo, ja sam Darko Domonji
 **Data & UX Knowledge Modeler | DWH Builder | Creator of Metagrafija HDSR & ENKIR UX Method**
 
