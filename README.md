@@ -73,7 +73,7 @@ Moja autorska vizuelna mapa, zasnovana na IDEO d.school dizajnerskom razmišljan
 8. Maxi-Iteracija → nazad u krug  
 
 Ovo je sistemska spirala učenja, adaptacije i preciznog razumevanja —  
-**osmica koja se vraća sama sebi dok ne pronađe optimalni oblik, dok svaki korak unakrsno komunicira sa svakim prethodnim i sledećim korakom.**
+**Osmica koja se vraća sama sebi dok ne pronađe optimalni oblik, dok svaki korak unakrsno komunicira sa svakim prethodnim i sledećim korakom.**
 
 ---
 
