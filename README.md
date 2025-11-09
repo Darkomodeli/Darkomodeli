@@ -55,7 +55,7 @@ Funkcioniše u 3 konteksta (3K):
 
 ## 🌀 Strateška Osmica (HDSR Loop)
 
-https://github.com/Darkomodeli/Darkomodeli/blob/main/Strateska%20osmica%20i%20IDEO%20Portfolio%20Analitike%20Podataka.png
+Strateska osmica i IDEO Portfolio Analitike Podataka.png
 
 Moja autorska vizuelna mapa, zasnovana na IDEO d.school dizajnerskom razmišljanju i HDSR logici.
 
