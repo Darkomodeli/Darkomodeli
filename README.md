@@ -27,7 +27,7 @@ Metagrafija je interdisciplinarni metod nastao na preseku:
 - digitalnih tehnologija i analitike
 - UX razmišljanja i konceptualnog dizajna
 
-<img src="https://raw.githubusercontent.com/Darkomodeli/Darkomodeli/main/slika%20Metagrafija%20Laba-Portfolio%20Analitike%20Podataka.png" width="350">
+<img src="https://raw.githubusercontent.com/Darkomodeli/Darkomodeli/main/slika%20Metagrafija%20Laba-Portfolio%20Analitike%20Podataka.png" width="300">
 
 ### 🔹 Etimološki ključ
 
@@ -57,7 +57,7 @@ Funkcioniše u 3 konteksta (3K):
 
 ## 🌀 Strateška Osmica (HDSR Loop)
 
-<img src="https://raw.githubusercontent.com/Darkomodeli/Darkomodeli/main/Strateska%20osmica%20i%20IDEO%20Portfolio%20Analitike%20Podataka.png" width="350">
+<img src="https://raw.githubusercontent.com/Darkomodeli/Darkomodeli/main/Strateska%20osmica%20i%20IDEO%20Portfolio%20Analitike%20Podataka.png" width="450">
 
 Moja autorska vizuelna mapa, zasnovana na IDEO d.school dizajnerskom razmišljanju i HDSR logici.
 
@@ -181,6 +181,6 @@ Ovaj projekat je temelj mog DWH portfolija.
 
 ---
 
-## 🧪📽️ Moja misija u jednoj rečenici
+## 🧪 Moja misija u jednoj rečenici
 
 **„Vizuelizujem znanje. Struktuiram procese. Pravim da sistemi postanu razumljivi.“**
