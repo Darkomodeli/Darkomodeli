@@ -67,10 +67,10 @@ Moja autorska vizuelna mapa, zasnovana na IDEO d.school dizajnerskom razmišljan
 2. Identifikuj problem  
 3. Formuliši strateška pitanja  
 4. Generiši mogućnosti  
-5. Testiraj model  
-6. Reflektuj ishod  
-7. Odluka  
-8. Iteracije → nazad u krug  
+5. Testiraj model i Reflektuj ishod
+6. Barijere ( pojaviće se i identifikuj ih)  
+7. Mini-Iteracije i Odluke  
+8. Maxi-Iteracija → nazad u krug  
 
 Ovo je sistemska spirala učenja, adaptacije i preciznog razumevanja —  
 **osmica koja se vraća sama sebi dok ne pronađe optimalni oblik.**
